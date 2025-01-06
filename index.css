@@ -1,0 +1,17 @@
+#submit-this-form{
+    text-align: center;
+    color: rgb(239, 219, 219);
+}
+.submit-1{
+    text-align: center;
+}
+nav,ul,li{
+    margin-right: 10px;
+    display: inline;
+    color: black;
+    background-color:rgb(230, 239, 98);
+} 
+
+a{
+    text-decoration: none;
+}
